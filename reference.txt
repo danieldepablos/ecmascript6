@@ -1,0 +1,2 @@
+Babel is a JavaScript compiler.
+https://babeljs.io/
