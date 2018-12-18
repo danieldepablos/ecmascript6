@@ -1,5 +1,3 @@
-"use strict";
-
 // let nombre = 'ddepabloss@gmail.com';
 // let nombre = 'daniel';
 // console.log('Hola ' + nombre);
@@ -21,6 +19,7 @@
 // const lo utilizamos cuando queremos que el valor de una variable NUNCA cambie.
 // const nombre = 'Daniel';
 // nombre = 'José';
-var colores = ['rojo', 'verde'];
-colores.push('Azul');
-console.log(colores);
+// const colores = ['rojo', 'verde']
+// colores.push('Azul')
+// console.log(colores)
+"use strict";

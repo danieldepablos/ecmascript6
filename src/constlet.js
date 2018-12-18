@@ -28,7 +28,7 @@
 // const nombre = 'Daniel';
 // nombre = 'José';
 
-const colores = ['rojo', 'verde']
-colores.push('Azul')
+// const colores = ['rojo', 'verde']
+// colores.push('Azul')
 
-console.log(colores)
+// console.log(colores)
